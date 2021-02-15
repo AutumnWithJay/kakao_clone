@@ -2,5 +2,5 @@
 To Make Kakaotalk with HTML &amp; CSS
 
 ## Todo
-- [ ] Number CSS
-- [ ] Add elipsis red dot
+- [x] Number CSS
+- [x] Add elipsis red dot
